@@ -47,3 +47,7 @@ human singing voice (voi).
 	classical ([cla]),				009__[voi][nod][cou_fol]2442__1	data 14
 	pop-rock ([pop-roc]),			[voi][pop_roc]2547__3			data 15
 
+
+
+Speech dataset
+https://www.kaggle.com/datasets/mathurinache/the-lj-speech-dataset
