@@ -1,0 +1,53 @@
+Annotations: The annotation of the predominant instrument of each excerpt is both in the name of the containing folder, irmas dataset
+and in the file name: 
+cello (cel), 
+clarinet (cla), 
+flute (flu), 
+acoustic guitar (gac),
+electric guitar (gel),
+organ (org),
+piano (pia),
+saxophone (sax),
+trumpet (tru),
+violin (vio),
+human singing voice (voi).
+
+Additionally, some of the files have annotations in the filename regarding the presence ([dru]) or non presence([nod]) of drums, and 
+the musical genre: 
+country-folk ([cou_fol]),
+classical ([cla]),
+pop-rock ([pop-roc]),
+latin-soul ([lat-sou]).
+
+yang digunakan untuk data.........
+
+cello (cel),
+	country-folk ([cou_fol]),		[cel][jaz_blu]0011__2			data 1
+	classical ([cla]), 				[cel][cla]0007__1				data 2
+	pop-rock ([pop-roc]),			[cel][pop_roc]0060__2			data 3
+
+acoustic guitar (gac),				
+	country-folk ([cou_fol]),		[gac][jaz_blu]0549__2			data 4
+	classical ([cla]),				[gac][cla]0530__1				data 5
+	pop-rock ([pop-roc]),			[gac][pop_roc]0560__3			data 6
+
+
+piano (pia),		
+	country-folk ([cou_fol]),		[pia][jaz_blu]1348__1			data 7
+	classical ([cla]),				[pia][cla]1291__1				data 8
+	pop-rock ([pop-roc]),			[pia][pop_roc]1306__1			data 9
+	
+saxophone (sax),
+	country-folk ([cou_fol]),		[sax][jaz_blu]1605__2			data 10
+	classical ([cla]),				[sax][cla]1598__1				data 11
+	pop-rock ([pop-roc]),			[sax][pop_roc]1588__1			data 12
+	
+human singing voice (voi).
+	country-folk ([cou_fol]),		[voi][jaz_blu]2358__1			data 13
+	classical ([cla]),				009__[voi][nod][cou_fol]2442__1	data 14
+	pop-rock ([pop-roc]),			[voi][pop_roc]2547__3			data 15
+
+
+
+Speech dataset
+https://www.kaggle.com/datasets/mathurinache/the-lj-speech-dataset
